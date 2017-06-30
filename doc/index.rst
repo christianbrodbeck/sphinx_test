@@ -6,10 +6,11 @@
 Welcome to SphinxTest's documentation!
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
+.. autosummary::
+   :toctree: generated
+
+   sphinx_test.A
 
 
 Indices and tables
